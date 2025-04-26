@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "NodeJS Ecommerce Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanutv123/eCommerce-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "hdit"
+  ],
+  "author": "Tanu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanutv123/eCommerce-nodejs/issues"
+  },
+  "homepage": "https://github.com/tanutv123/eCommerce-nodejs#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
